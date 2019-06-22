@@ -1,0 +1,6 @@
+com\PreviRed\Application.class
+com\PreviRed\Controller\loginController.class
+com\PreviRed\Controller\UsuarioController.class
+com\PreviRed\DAO\InUsuario.class
+com\PreviRed\DTO\Usuario.class
+com\PreviRed\Entities\UsuarioEntities.class
